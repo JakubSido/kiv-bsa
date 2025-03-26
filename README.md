@@ -17,3 +17,9 @@ GPG KeyServer: <http://147.228.67.151:11371/>
 7. Odeslete apache logy na 192.168.99.151:514 (UDP)
 8. Nastavte prijem logu z 147.228.67.151
 9. Pomoci SQL Injection zjistete nakupni cenu knizek na adrese: <http://192.168.100.151/book_store.php>
+
+
+
+
+# 
+[udpcast](https://www.udpcast.linux.lu/bootloader.html) -- multicast OS isntall 
