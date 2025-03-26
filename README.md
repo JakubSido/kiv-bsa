@@ -22,4 +22,8 @@ GPG KeyServer: <http://147.228.67.151:11371/>
 
 
 # 
+[snort](https://www.snort.org/) -- IDS 
+
+## Instalace OS
 [udpcast](https://www.udpcast.linux.lu/bootloader.html) -- multicast OS isntall 
+[FAI](https://fai-project.org/fai-guide/) -- boot ze sítě a instalace dle vzoru 
